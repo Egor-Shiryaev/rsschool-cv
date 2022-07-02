@@ -1,22 +1,21 @@
+# Egor Shiryaev
 
-[rsschool-cv](https://app.rs.school/profile#view)
-====
-#Egor Shiryaev
+## Contacts
 
-##Contacts
+Location: **Kansk, Russia**
 
-Location: Kansk, Russia
-Phone: +79811882505
-Email: euro24rus@gmail.com
-Discord: Egor Shiryaev
-RS my accaunt  
+Phone: **+79811882505**
 
+Email: **euro24rus@gmail.com**
 
-##About Me
+Discord: **Egor Shiryaev**
+
+## About Me
 
 Hello, my goal is to master the knowledge and skills in programming needed to get a job. I have little experience in programming and layout. Now I'm studying a course on JS / FRONT-END from RS School. I consider my strong point to be the ability to work in a team.
 
-##Code examples
+## Code examples
+
 ```
 const well = x => {
   const good_count = x.filter(x => x == 'good').length;
@@ -25,12 +24,14 @@ const well = x => {
 }
 ```
 
-##Work experience
+## Work experience
+
 Last place of work: Tinkoff Bank, as a specialist in banking products
 
-##Education and courses
+## Education and courses
+
 Higher pedagogical
 
+## English language
 
-##English language
 entry level
